@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Favorite things about CS 193
-- The Biulding is magnificent
+- The Building is magnificent
 - It's fun
 
 ### Jekyll Themes
